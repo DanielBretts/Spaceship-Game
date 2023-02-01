@@ -16,5 +16,5 @@ Escape the obstacles ("*") using SW0. Catch all awards ("O") to earn points.
 We used the BASYS MX-3 Library for some functionalities
 ## Authors
 
-- [@Liran](https://www.github.com/octokatherine)
+- [@Liran](https://github.com/Liran-1)
 
