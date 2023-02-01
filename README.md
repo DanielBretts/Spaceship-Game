@@ -12,8 +12,9 @@ https://user-images.githubusercontent.com/60986160/216066251-c554b486-1846-4e02-
 
 ## Repository Reference
 
-We used the BASYS MX-3 Library for some functionalities
+We used the [BASYS MX-3 Library](https://github.com/Digilent/Basys-MX3-library) for some functionalities
 ## Authors
 
-- [@Liran](https://github.com/Liran-1)
+- [@Liran Sorokin](https://github.com/Liran-1)
+- [@Daniel Brettschneider](https://github.com/DanielBretts)
 
