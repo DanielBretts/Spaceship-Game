@@ -1,2 +1,2 @@
 # Spaceship-Game
-This program was built using the BASYS MX-3 Controller
+This project was programmed on a "BASYS MX3", during "Embedded systems" course.
