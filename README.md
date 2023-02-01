@@ -8,8 +8,7 @@ Escape the obstacles ("*") using SW0. Catch all awards ("O") to earn points.
 
 ## Demo
 
-
-
+https://user-images.githubusercontent.com/60986160/216066251-c554b486-1846-4e02-a42d-e47272a9cc4c.mp4
 
 ## Repository Reference
 
